@@ -1,0 +1,142 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/#" unique-identifier="pub-id" version="3.0" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="title">Funk</dc:title>
+<dc:identifier id="pub-id">urn:isbn:9781466884526</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:creator id="creator">Rickey Vincent</dc:creator>
+<dc:publisher>St. Martin's Press</dc:publisher>
+<dc:rights>All rights reserved</dc:rights>
+<meta property="dcterms:modified">2014-09-15T15:37:14Z</meta>
+<meta id="auth" property="dcterms:creator">Rickey Vincent</meta>
+<meta property="dcterms:date">2014</meta>
+<meta property="rendition:orientation">auto</meta>
+<meta property="rendition:spread">auto</meta>
+<meta content="cover-image" name="cover"/>
+<description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;Funk: It's the only musical genre ever to have transformed the nation into a throbbing army of bell-bottomed, hoop-earringed, rainbow-Afro'd warriors on the dance floor. Its rhythms and lyrics turned bleak urban realties inside out with distinctive, danceable, downright irresistable music. &lt;br&gt;Funk hasn't received the critical attention that rock, jazz, and the blues have-until now. Colorful, intelligent, and in-you-face, Rickey Vincent's &lt;i&gt;Funk&lt;/i&gt; celebrates the songs, the musicians, the philosophy, and the meaning of funk. The book spans from the early work of James Brown (the Godfather of Funk) through today, covering funky soul (Stevie Wonder, the Temptations), so-called "black rock" (Jimi Hendrix, Sly and the Family Stone, the Isely Brothers), jazz-funk (Miles Davis, Herbie Hancock), monster funk (Parliament, Funkadelic, Bootsy's Rubber Band), naked funk (Rick James, Gap Band), disco-funk (Chic, K.C. and the Sunshine Band), funky pop (Kook &amp;amp; the Gang, Chaka Khan),...</description>
+</metadata>
+<manifest>
+<item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+<item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+<item href="xhtml/cover.xhtml" id="html-cover-page" media-type="application/xhtml+xml"/>
+<item href="xhtml/title.xhtml" id="tit" media-type="application/xhtml+xml"/>
+<item href="xhtml/copyrightnotice.xhtml" id="copyrightnotice" media-type="application/xhtml+xml"/>
+<item href="xhtml/contents.xhtml" id="contents" media-type="application/xhtml+xml"/>
+<item href="xhtml/ded.xhtml" id="ded" media-type="application/xhtml+xml"/>
+<item href="xhtml/funk.xhtml" id="funk" media-type="application/xhtml+xml"/>
+<item href="xhtml/major.xhtml" id="major" media-type="application/xhtml+xml"/>
+<item href="xhtml/foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
+<item href="xhtml/preface.xhtml" id="preface" media-type="application/xhtml+xml"/>
+<item href="xhtml/part1.xhtml" id="part1" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter1.xhtml" id="chapter1" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter2.xhtml" id="chapter2" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter3.xhtml" id="chapter3" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter4.xhtml" id="chapter4" media-type="application/xhtml+xml"/>
+<item href="xhtml/part2.xhtml" id="part2" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter5.xhtml" id="chapter5" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter6.xhtml" id="chapter6" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter7.xhtml" id="chapter7" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter8.xhtml" id="chapter8" media-type="application/xhtml+xml"/>
+<item href="xhtml/part3.xhtml" id="part3" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter9.xhtml" id="chapter9" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
+<item href="xhtml/part4.xhtml" id="part4" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter13.xhtml" id="chapter13" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter14.xhtml" id="chapter14" media-type="application/xhtml+xml"/>
+<item href="xhtml/part5.xhtml" id="part5" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter15.xhtml" id="chapter15" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter16.xhtml" id="chapter16" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter17.xhtml" id="chapter17" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter18.xhtml" id="chapter18" media-type="application/xhtml+xml"/>
+<item href="xhtml/part6.xhtml" id="part6" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter19.xhtml" id="chapter19" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter20.xhtml" id="chapter20" media-type="application/xhtml+xml"/>
+<item href="xhtml/part7.xhtml" id="part7" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter21.xhtml" id="chapter21" media-type="application/xhtml+xml"/>
+<item href="xhtml/chapter22.xhtml" id="chapter22" media-type="application/xhtml+xml"/>
+<item href="xhtml/essential.xhtml" id="essential" media-type="application/xhtml+xml"/>
+<item href="xhtml/figures.xhtml" id="figures" media-type="application/xhtml+xml"/>
+<item href="xhtml/notes.xhtml" id="notes" media-type="application/xhtml+xml"/>
+<item href="xhtml/index.xhtml" id="index" media-type="application/xhtml+xml"/>
+<item href="xhtml/praise.xhtml" id="praise" media-type="application/xhtml+xml"/>
+<item href="xhtml/copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
+<item href="xhtml/footnote.xhtml" id="footnote" media-type="application/xhtml+xml"/>
+<item href="styles/stylesheet.css" id="css" media-type="text/css"/>
+<item href="images/9781466884526.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/pg21.jpg" id="image-001" media-type="image/jpeg"/>
+<item href="images/pg326.jpg" id="image-002" media-type="image/jpeg"/>
+<item href="images/pg327.jpg" id="image-003" media-type="image/jpeg"/>
+<item href="images/pg328.jpg" id="image-004" media-type="image/jpeg"/>
+<item href="images/pg329.jpg" id="image-005" media-type="image/jpeg"/>
+<item href="images/pg330.jpg" id="image-006" media-type="image/jpeg"/>
+<item href="images/pg331.jpg" id="image-007" media-type="image/jpeg"/>
+<item href="images/pg332.jpg" id="image-008" media-type="image/jpeg"/>
+<item href="images/pg333.jpg" id="image-009" media-type="image/jpeg"/>
+<item href="images/pg334.jpg" id="image-0010" media-type="image/jpeg"/>
+<item href="images/pg335.jpg" id="image-0011" media-type="image/jpeg"/>
+<item href="images/pg336.jpg" id="image-0012" media-type="image/jpeg"/>
+<item href="images/pg337.jpg" id="image-0013" media-type="image/jpeg"/>
+<item href="images/pg338.jpg" id="image-0014" media-type="image/jpeg"/>
+<item href="images/pg339.jpg" id="image-0015" media-type="image/jpeg"/>
+<item href="images/pg340.jpg" id="image-0016" media-type="image/jpeg"/>
+<item href="images/pg341.jpg" id="image-0017" media-type="image/jpeg"/>
+<item href="images/pg342.jpg" id="image-0018" media-type="image/jpeg"/>
+<item href="images/pg343.jpg" id="image-0019" media-type="image/jpeg"/>
+<item href="images/pg344.jpg" id="image-0020" media-type="image/jpeg"/>
+<item href="images/pg345.jpg" id="image-0021" media-type="image/jpeg"/>
+<item href="images/pgxv.jpg" id="image-0022" media-type="image/jpeg"/>
+<item href="images/title.jpg" id="image-0023" media-type="image/jpeg"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc">
+<itemref idref="html-cover-page"/>
+<itemref idref="tit"/>
+<itemref idref="copyrightnotice"/>
+<itemref idref="contents"/>
+<itemref idref="ded"/>
+<itemref idref="funk"/>
+<itemref idref="major"/>
+<itemref idref="foreword"/>
+<itemref idref="preface"/>
+<itemref idref="part1"/>
+<itemref idref="chapter1"/>
+<itemref idref="chapter2"/>
+<itemref idref="chapter3"/>
+<itemref idref="chapter4"/>
+<itemref idref="part2"/>
+<itemref idref="chapter5"/>
+<itemref idref="chapter6"/>
+<itemref idref="chapter7"/>
+<itemref idref="chapter8"/>
+<itemref idref="part3"/>
+<itemref idref="chapter9"/>
+<itemref idref="chapter10"/>
+<itemref idref="chapter11"/>
+<itemref idref="part4"/>
+<itemref idref="chapter12"/>
+<itemref idref="chapter13"/>
+<itemref idref="chapter14"/>
+<itemref idref="part5"/>
+<itemref idref="chapter15"/>
+<itemref idref="chapter16"/>
+<itemref idref="chapter17"/>
+<itemref idref="chapter18"/>
+<itemref idref="part6"/>
+<itemref idref="chapter19"/>
+<itemref idref="chapter20"/>
+<itemref idref="part7"/>
+<itemref idref="chapter21"/>
+<itemref idref="chapter22"/>
+<itemref idref="essential"/>
+<itemref idref="figures"/>
+<itemref idref="notes"/>
+<itemref idref="index"/>
+<itemref idref="praise"/>
+<itemref idref="copyright"/>
+<itemref idref="footnote" linear="no"/>
+</spine>
+<guide>
+<reference href="xhtml/contents.xhtml" title="Contents" type="toc"/>
+<reference href="xhtml/cover.xhtml" title="Cover Image" type="cover"/>
+</guide>
+</package>

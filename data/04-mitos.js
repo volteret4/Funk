@@ -1,0 +1,47 @@
+FUNK.chapter({ n: 4, label: 'Cap. 3', title: 'Mitos sobre el funk: All That Is Good Is Nasty' });
+FUNK.add([
+  { id: 'the-funk', note: 'Cinco mitos. Que el funk no importa porque no tiene estante en la tienda: la industria repartió a sus artistas entre soul, jazz-funk y rock (Earth, Wind & Fire «se volvió» grupo de soul por gestión de Columbia; Herbie Hancock quedó encerrado en la sección de jazz), y fueron los oyentes de la clase baja negra quienes lo guardaron para sus hijos raperos. Que es música guarra: como el hot jazz de Armstrong, el funk está ligado al sexo y la cultura negra no asimilada no carga con las distinciones occidentales de lo obsceno («Sex Machine», Barry White, los tacos de Clinton, Richard Pryor), y además muchos negros miraban con desprecio la música de raíz por la «doble conciencia». Que es disco (lo desmontan los capítulos sobre el disco). Que el jazz es música de verdad y el funk no (ver jazz-funk). Y que no hay libros sobre funk: tras el soul, los críticos blancos perdieron el interés; solo Nelson George (The Death of Rhythm and Blues) y Greg Tate lo trataron. El funk es la música de los marginados negros, la misma clase de la que sale el rap, y la radio negra, orientada al single, ocultó que sus bandas pensaban en discos enteros.',
+    artists: ['Barry White', 'Richard Pryor', 'Nelson George', 'Greg Tate', 'John Morthland', 'Isaac Hayes'],
+    tracks: [
+      { a: 'James Brown', t: 'Get Up (I Feel Like Being a) Sex Machine', y: 1970, yq: 'James Brown Get Up I Feel Like Being a Sex Machine 1970' },
+      { a: 'Funkadelic', t: 'Mommy, What’s a Funkadelic?', y: 1970 },
+      { a: 'Parliament', t: 'Loose Booty', y: 1972 },
+    ],
+    refs: [
+      { q: 'Funk is stigmatized in the same way that the “hot jazz” of Louis Armstrong was considered “sex music.”' },
+      { q: 'Funk used to be a bad word. Now everybody’s trying to get knee deep.' },
+      { q: 'Yet today’s rap music movement and its artists have nevertheless shown a phenomenal affection for funk music and its message.' },
+    ] },
+  { id: 'disco', name: 'El disco', family: 'disco', start: 1974, end: 1980, place: 'Discotecas de Europa, Nueva York y todo Estados Unidos',
+    aka: ['disco', 'Disco sucks', 'disco craze'],
+    desc: 'Una simulación repetitiva de la crudeza del funk negro, alargada por máquinas y no por músicos que improvisan. Nació en clubes europeos de finales de los sesenta que pinchaban funk original, llegó a Estados Unidos y en 1974 era la moda de la Costa Este: aceleró la destrucción de la sesión en directo, de las bandas y de la grabación con alma, y la música negra se volvió más mecánica y menos significativa. El disco quería bailar sin fin sobre un ritmo único; el funk, levantarse y hacer jam («Freak of the Week»: nada de ese «disco sádico» de un solo golpe). Las bandas de funk lo atacaron («The Undisco Kidd», «Anti-Disco» de Mutiny) o se vendieron: James Brown se proclamó «Original Disco Man», los Ohio Players, los Isley y Earth, Wind & Fire («Boogie Wonderland») cayeron. El grito «Disco sucks» metió en el mismo saco a toda la música negra de baile, y muchas bandas de funk murieron por no vender como el disco.',
+    artists: ['Silver Convention', 'Mutiny'],
+    labels: [],
+    tracks: [
+      { a: 'Funkadelic', t: 'Freak of the Week', y: 1979 },
+      { a: 'Funkadelic', t: 'Undisco Kidd', y: 1976 },
+      { a: 'Mutiny', t: 'Anti-Disco', y: 1983 },
+      { a: 'James Brown', t: 'It’s Too Funky in Here', y: 1979 },
+      { a: 'James Brown', t: 'The Original Disco Man', y: 1979 },
+      { a: 'Ohio Players', t: 'Everybody Up', y: 1979 },
+      { a: 'The Isley Brothers', t: 'It’s a Disco Night (Rock Don’t Stop)', y: 1979 },
+      { a: 'Earth, Wind & Fire', t: 'Boogie Wonderland', y: 1979 },
+      { a: 'Silver Convention', t: 'Fly, Robin, Fly', y: 1975 },
+    ],
+    influences: ['bandas-funk'],
+    refs: [
+      { q: 'Disco is the simplified form of nonethnic, electronic-sounding dance music that swept the country in the mid- to late 1970s.' },
+      { q: 'While the ideals of disco were to dance interminably to monorhythmic beats, the ideals of funk were to get off your ass and jam.' },
+    ] },
+  { id: 'jazz-funk', name: 'Jazz-funk y fusión', family: 'fusion', start: 1968, end: 1980, place: 'Nueva York, Los Ángeles y Chicago',
+    aka: ['jazz-funk', 'fusion', 'acid jazz', 'rare groove'],
+    desc: 'Tras la muerte de Coltrane (1967), Miles Davis, Cannonball Adderley, Donald Byrd, Ramsey Lewis, Wayne Shorter, Chick Corea y Herbie Hancock se electrificaron con bajo eléctrico, guitarras, teclados y ritmos de James Brown, y sus bandas empezaron a parecer de R&B; otros siguieron a Ornette Coleman hacia la fusión «técnica». Miles respondió a los puristas que lo que arruina la música es la mala música, no los instrumentos. Hacia 1970 el jazz evolucionaba hacia el funk: un fondo funky con encima la improvisación de músicos formados en el jazz (Kool & the Gang, Earth, Wind & Fire, Ohio Players, los Meters, Funk Inc., Mandrill, War, Tower of Power, los Crusaders, los Headhunters y sobre todo los JB’s). El funk es la última música popular negra tocada por músicos de formación jazzística: «el jazz es el maestro, el funk es el predicador» (James Blood Ulmer).',
+    artists: ['Miles Davis', 'Herbie Hancock', 'Donald Byrd', 'Cannonball Adderley', 'Ramsey Lewis', 'Wayne Shorter', 'Chick Corea', 'Ornette Coleman', 'The Crusaders', 'The Headhunters', 'Funk Inc.', 'Mandrill', 'Tower of Power', 'James Blood Ulmer'],
+    labels: ['Columbia', 'Blue Note', 'Prestige'],
+    tracks: [],
+    influences: ['james-brown'],
+    refs: [
+      { q: 'By 1970 jazz was evolving into funk.' },
+      { q: 'Funk is actually the last form of black popular music played by musicians trained in the jazz arena.' },
+    ] },
+], 4);

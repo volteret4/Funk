@@ -1,0 +1,30 @@
+FUNK.chapter({ n: 19, label: 'Cap. 18', title: 'The Metaphysics of P: The Mothership Connection' });
+FUNK.add([
+  { id: 'mitologia-pfunk', name: 'La metafísica de P-Funk', family: 'pfunk', start: 1970, end: 1995, place: 'Del Kemet a la Nave Nodriza',
+    aka: ['Mothership', 'On the One', 'funkateers', 'Star Child', 'Sir Nose', 'Placebo Syndrome', 'seven levels of funkativity'],
+    desc: 'Más que un estilo, una filosofía de vida que roza la religión: según Ashem Neru-Mesit, un «sistema de misterios» como los del antiguo Kemet, con ritos de paso. Clinton y Pedro Bell se burlaban de las doctrinas mientras creaban la suya: el «Swing down, sweet chariot» de «Mothership Connection» convertía el carro del himno en una nave con tripulación negra que volvía a reclamar las pirámides, poniendo la sensibilidad afroamericana en el centro del universo y de la historia. Una mitología negra postindustrial de ciencia ficción, en la que los blancos no existían: Star Child, Dr. Funkenstein y su enemigo Sir Nose D’Voidoffunk, que se niega a bailar y contagia el Placebo Syndrome; superhéroes animados a imagen de los niños negros que daban la vuelta a la asociación de negro con malo. Tras los derechos civiles, el éxodo hacia la Tierra Prometida se volvió el aterrizaje de la Nave en los estadios. «On the One» es la unidad cósmica africana de todo: «One Nation Under a Groove», «todo el mundo en el mismo pulso». La autosuperación («Free your mind and your ass will follow / The kingdom of heaven is within», «bailar bajo el agua sin mojarse» en «Aqua Boogie») y el equilibrio entre lo sagrado y lo profano («All that is good, is nasty!»): la fuerza vital única de la filosofía africana, el Ra kemético o la Kundalini, alcanzada por el trance extático. Ese ideario pasó a la generación del rap.',
+    artists: ['George Clinton', 'Pedro Bell', 'Ashem “The Funky Man” Neru-Mesit', 'Tom Vickers', 'Michael O’Neal', 'Anthony “Dave-ID K-OS” Bryant', 'Abe Peck', 'Junie Morrison', 'W. A. Brower', 'Janheinz Jahn', 'Ra Un Nefer Amen', 'Sun Ra'],
+    labels: ['Muntu', 'The P-Funk Aesthetic'],
+    tracks: [
+      { a: 'Parliament', t: 'Prelude', y: 1976 },
+      { a: 'Parliament', t: 'Gloryhallastoopid (Or Pin the Tail on the Funky)', y: 1979 },
+      { a: 'Parliament', t: 'Trombipulation', y: 1980 },
+      { a: 'Parliament', t: 'Unfunky UFO', y: 1975 },
+      { a: 'Parliament', t: 'Fantasy Is Reality', y: 1975 },
+      { a: 'Funkadelic', t: 'Good Thoughts, Bad Thoughts', y: 1974 },
+      { a: 'Brides of Funkenstein', t: 'Never Buy Texas from a Cowboy', y: 1979 },
+      { a: 'Funkadelic', t: 'Red Hot Mama', y: 1974 },
+      { a: 'Funkadelic', t: 'Freak of the Week', y: 1979 },
+      { a: 'Parliament', t: 'Rumpofsteelskin', y: 1978 },
+    ],
+    influences: ['parliament', 'funkadelic', 'raices-africanas', 'soul-gospel'],
+    refs: [
+      { q: 'P-Funk was and is more than a music style; it is a philosophy of life that for some approaches a religious creed.' },
+      { q: 'Without polemics, militarism, or racially charged code words, Clinton’s P-Funk placed the African-American sensibility at the center of the universe, and ultimately at the center of history.' },
+      { q: 'The Mothership was a celebration of the infinities of which blacks were now capable.' },
+      { q: 'Thus the Rhythm of the One is the key to a collective spirit.' },
+      { q: 'With The Funk, the sexual being and the spiritual being are one.' },
+    ] },
+  { id: 'the-funk', note: 'En la cosmología africana, como en el funk, todo vive y está conectado: «Every-thing-is-on-the-One». Las bandas grandes de los setenta demostraban rítmicamente que una diversidad de ritmos e individuos puede unirse en un groove.',
+    refs: [{ q: 'In ancient African cosmology—as well as in The Funk—everything lives and is connected.' }] },
+], 19);

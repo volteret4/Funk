@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="urn:isbn:9781466884526"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="414"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+<text>Funk</text>
+</docTitle>
+<docAuthor><text>Rickey Vincent</text></docAuthor>
+<navMap>
+<navPoint class="other" id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="xhtml/cover.xhtml"/></navPoint>
+<navPoint class="other" id="navpoint-2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="xhtml/title.xhtml#tit"/></navPoint>
+<navPoint class="other" id="navpoint-3" playOrder="3"><navLabel><text>Copyright Notice</text></navLabel><content src="xhtml/copyrightnotice.xhtml#notice"/></navPoint>
+<navPoint class="other" id="navpoint-4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="xhtml/contents.xhtml#toc"/></navPoint>
+<navPoint class="other" id="navpoint-5" playOrder="5"><navLabel><text>Dedication</text></navLabel><content src="xhtml/ded.xhtml#ded"/></navPoint>
+<navPoint class="other" id="navpoint-6" playOrder="6"><navLabel><text>Funk Dynasties from the 1960s to the 1990s</text></navLabel><content src="xhtml/funk.xhtml#funk"/></navPoint>
+<navPoint class="other" id="navpoint-7" playOrder="7"><navLabel><text>Major Funk Artists by Region</text></navLabel><content src="xhtml/major.xhtml#major"/></navPoint>
+<navPoint class="other" id="navpoint-8" playOrder="8"><navLabel><text>Foreword by George Clinton</text></navLabel><content src="xhtml/foreword.xhtml#fore"/></navPoint>
+<navPoint class="other" id="navpoint-9" playOrder="9"><navLabel><text>Preface: On The One</text></navLabel><content src="xhtml/preface.xhtml#pre"/>
+<navPoint class="other" id="navpoint-10" playOrder="10"><navLabel><text>Those Funky Seventies</text></navLabel><content src="xhtml/preface.xhtml#pre-1"/></navPoint>
+<navPoint class="other" id="navpoint-11" playOrder="11"><navLabel><text>Origins of This Book</text></navLabel><content src="xhtml/preface.xhtml#pre-2"/></navPoint>
+<navPoint class="other" id="navpoint-12" playOrder="12"><navLabel><text>Props</text></navLabel><content src="xhtml/preface.xhtml#pre-3"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-13" playOrder="13"><navLabel><text>Part 1&#x2014;Introduction to Funk: The Bomb</text></navLabel><content src="xhtml/part1.xhtml#pt1"/>
+<navPoint class="other" id="navpoint-14" playOrder="14"><navLabel><text>1. Introduction to Funk: The Bomb</text></navLabel><content src="xhtml/chapter1.xhtml#ch1"/>
+<navPoint class="other" id="navpoint-15" playOrder="15"><navLabel><text>What Is Funk&#x003F;</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-1"/></navPoint>
+<navPoint class="other" id="navpoint-16" playOrder="16"><navLabel><text>Why a Book about Funk&#x003F;</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-2"/></navPoint>
+<navPoint class="other" id="navpoint-17" playOrder="17"><navLabel><text>Who Has The Funk&#x003F;</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-3"/></navPoint>
+<navPoint class="other" id="navpoint-18" playOrder="18"><navLabel><text>The Bomb</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-4"/></navPoint>
+<navPoint class="other" id="navpoint-19" playOrder="19"><navLabel><text>The Funk Revival</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-5"/></navPoint>
+<navPoint class="other" id="navpoint-20" playOrder="20"><navLabel><text>The History of Funk</text></navLabel><content src="xhtml/chapter1.xhtml#ch1-6"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-21" playOrder="21"><navLabel><text>2. Funk Music: Dance Wit Me</text></navLabel><content src="xhtml/chapter2.xhtml#ch2"/>
+<navPoint class="other" id="navpoint-22" playOrder="22"><navLabel><text>Funk Bands</text></navLabel><content src="xhtml/chapter2.xhtml#ch2-1"/></navPoint>
+<navPoint class="other" id="navpoint-23" playOrder="23"><navLabel><text>Musical Model of Funk Evolution</text></navLabel><content src="xhtml/chapter2.xhtml#ch2-2"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-24" playOrder="24"><navLabel><text>3. Myths About Funk: All That Is Good Is Nasty</text></navLabel><content src="xhtml/chapter3.xhtml#ch3"/></navPoint>
+<navPoint class="other" id="navpoint-25" playOrder="25"><navLabel><text>4. Roots: Where&#x2019;d You Get Your Funk From&#x003F;</text></navLabel><content src="xhtml/chapter4.xhtml#ch4"/>
+<navPoint class="other" id="navpoint-26" playOrder="26"><navLabel><text>The Origin of Funky</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-1"/></navPoint>
+<navPoint class="other" id="navpoint-27" playOrder="27"><navLabel><text>Musical Roots</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-2"/></navPoint>
+<navPoint class="other" id="navpoint-28" playOrder="28"><navLabel><text>The One</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-3"/></navPoint>
+<navPoint class="other" id="navpoint-29" playOrder="29"><navLabel><text>Funky Blues</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-4"/></navPoint>
+<navPoint class="other" id="navpoint-30" playOrder="30"><navLabel><text>Jazz Age</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-5"/></navPoint>
+<navPoint class="other" id="navpoint-31" playOrder="31"><navLabel><text>Rhythm and Blues</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-6"/></navPoint>
+<navPoint class="other" id="navpoint-32" playOrder="32"><navLabel><text>Funk and Soul Be-Bop</text></navLabel><content src="xhtml/chapter4.xhtml#ch4-7"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-33" playOrder="33"><navLabel><text>Part 2&#x2014;The Original Funk Dynasty (1965&#x2013;72): Slippin&#x2019; into Darkness</text></navLabel><content src="xhtml/part2.xhtml#pt2"/>
+<navPoint class="other" id="navpoint-34" playOrder="34"><navLabel><text>5. The 1960s: If 6 Was 9</text></navLabel><content src="xhtml/chapter5.xhtml#ch5"/>
+<navPoint class="other" id="navpoint-35" playOrder="35"><navLabel><text>Civil Rights and the Dream</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-1"/></navPoint>
+<navPoint class="other" id="navpoint-36" playOrder="36"><navLabel><text>Black Power</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-2"/></navPoint>
+<navPoint class="other" id="navpoint-37" playOrder="37"><navLabel><text>The Black Panther Party</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-3"/></navPoint>
+<navPoint class="other" id="navpoint-38" playOrder="38"><navLabel><text>Black Is Beautiful</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-4"/></navPoint>
+<navPoint class="other" id="navpoint-39" playOrder="39"><navLabel><text>Hippies and the Counterculture</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-5"/></navPoint>
+<navPoint class="other" id="navpoint-40" playOrder="40"><navLabel><text>Sgt. Pepper</text></navLabel><content src="xhtml/chapter5.xhtml#ch5-6"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-41" playOrder="41"><navLabel><text>6. The Rhythm Revolution: Tighten Up</text></navLabel><content src="xhtml/chapter6.xhtml#ch6"/>
+<navPoint class="other" id="navpoint-42" playOrder="42"><navLabel><text>The Rhythm Revolution</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-1"/></navPoint>
+<navPoint class="other" id="navpoint-43" playOrder="43"><navLabel><text>Proto-Funk</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-2"/></navPoint>
+<navPoint class="other" id="navpoint-44" playOrder="44"><navLabel><text>Stax</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-3"/></navPoint>
+<navPoint class="other" id="navpoint-45" playOrder="45"><navLabel><text>The Meters</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-4"/></navPoint>
+<navPoint class="other" id="navpoint-46" playOrder="46"><navLabel><text>New Orleans Heart and Soul</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-5"/></navPoint>
+<navPoint class="other" id="navpoint-47" playOrder="47"><navLabel><text>Africa (Take Me Back)</text></navLabel><content src="xhtml/chapter6.xhtml#ch6-6"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-48" playOrder="48"><navLabel><text>7. The Godfather: Soul Power</text></navLabel><content src="xhtml/chapter7.xhtml#ch7"/>
+<navPoint class="other" id="navpoint-49" playOrder="49"><navLabel><text>James Brown</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-1"/></navPoint>
+<navPoint class="other" id="navpoint-50" playOrder="50"><navLabel><text>A New Bag</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-2"/></navPoint>
+<navPoint class="other" id="navpoint-51" playOrder="51"><navLabel><text>Say It Loud</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-3"/></navPoint>
+<navPoint class="other" id="navpoint-52" playOrder="52"><navLabel><text>The JBs</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-4"/></navPoint>
+<navPoint class="other" id="navpoint-53" playOrder="53"><navLabel><text>The Payback</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-5"/></navPoint>
+<navPoint class="other" id="navpoint-54" playOrder="54"><navLabel><text>Universal James</text></navLabel><content src="xhtml/chapter7.xhtml#ch7-6"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-55" playOrder="55"><navLabel><text>8. The Family Stoned: I Wanna Take You Higher</text></navLabel><content src="xhtml/chapter8.xhtml#ch8"/>
+<navPoint class="other" id="navpoint-56" playOrder="56"><navLabel><text>Sly and the Family Stone</text></navLabel><content src="xhtml/chapter8.xhtml#ch8-1"/></navPoint>
+<navPoint class="other" id="navpoint-57" playOrder="57"><navLabel><text>Stand!</text></navLabel><content src="xhtml/chapter8.xhtml#ch8-2"/></navPoint>
+<navPoint class="other" id="navpoint-58" playOrder="58"><navLabel><text>Larry Graham</text></navLabel><content src="xhtml/chapter8.xhtml#ch8-3"/></navPoint>
+<navPoint class="other" id="navpoint-59" playOrder="59"><navLabel><text>Riot</text></navLabel><content src="xhtml/chapter8.xhtml#ch8-4"/></navPoint>
+<navPoint class="other" id="navpoint-60" playOrder="60"><navLabel><text>Time for Livin&#x2019;</text></navLabel><content src="xhtml/chapter8.xhtml#ch8-5"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-61" playOrder="61"><navLabel><text>Part 3&#x2014;Searching for The Funk: Come Together</text></navLabel><content src="xhtml/part3.xhtml#pt3"/>
+<navPoint class="other" id="navpoint-62" playOrder="62"><navLabel><text>9. Black Rock: Givin&#x2019; It Back</text></navLabel><content src="xhtml/chapter9.xhtml#ch9"/>
+<navPoint class="other" id="navpoint-63" playOrder="63"><navLabel><text>The Blues, Rock, and Funk</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-1"/></navPoint>
+<navPoint class="other" id="navpoint-64" playOrder="64"><navLabel><text>Blues to Rock</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-2"/></navPoint>
+<navPoint class="other" id="navpoint-65" playOrder="65"><navLabel><text>Jimi Hendrix</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-3"/></navPoint>
+<navPoint class="other" id="navpoint-66" playOrder="66"><navLabel><text>Black Rock Bands</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-4"/></navPoint>
+<navPoint class="other" id="navpoint-67" playOrder="67"><navLabel><text>Mandrill</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-5"/></navPoint>
+<navPoint class="other" id="navpoint-68" playOrder="68"><navLabel><text>War</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-6"/></navPoint>
+<navPoint class="other" id="navpoint-69" playOrder="69"><navLabel><text>Santana</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-7"/></navPoint>
+<navPoint class="other" id="navpoint-70" playOrder="70"><navLabel><text>Stax</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-8"/></navPoint>
+<navPoint class="other" id="navpoint-71" playOrder="71"><navLabel><text>Isaac Hayes</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-9"/></navPoint>
+<navPoint class="other" id="navpoint-72" playOrder="72"><navLabel><text>The Bar-Kays</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-10"/></navPoint>
+<navPoint class="other" id="navpoint-73" playOrder="73"><navLabel><text>Graham Central Station</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-11"/></navPoint>
+<navPoint class="other" id="navpoint-74" playOrder="74"><navLabel><text>The Jam</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-12"/></navPoint>
+<navPoint class="other" id="navpoint-75" playOrder="75"><navLabel><text>Johnny &#x201C;Guitar&#x201D; Watson</text></navLabel><content src="xhtml/chapter9.xhtml#ch9-13"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-76" playOrder="76"><navLabel><text>10. Funky Soul: Express Yourself</text></navLabel><content src="xhtml/chapter10.xhtml#ch10"/>
+<navPoint class="other" id="navpoint-77" playOrder="77"><navLabel><text>Soul and Funk</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-1"/></navPoint>
+<navPoint class="other" id="navpoint-78" playOrder="78"><navLabel><text>Ray Charles</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-2"/></navPoint>
+<navPoint class="other" id="navpoint-79" playOrder="79"><navLabel><text>Aretha Franklin</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-3"/></navPoint>
+<navPoint class="other" id="navpoint-80" playOrder="80"><navLabel><text>Motown</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-4"/></navPoint>
+<navPoint class="other" id="navpoint-81" playOrder="81"><navLabel><text>What&#x2019;s Goin&#x2019; On</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-5"/></navPoint>
+<navPoint class="other" id="navpoint-82" playOrder="82"><navLabel><text>Sweet Funk</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-6"/></navPoint>
+<navPoint class="other" id="navpoint-83" playOrder="83"><navLabel><text>Stevie Wonder</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-7"/></navPoint>
+<navPoint class="other" id="navpoint-84" playOrder="84"><navLabel><text>The Philly Sound</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-8"/></navPoint>
+<navPoint class="other" id="navpoint-85" playOrder="85"><navLabel><text>The O&#x2019;Jays</text></navLabel><content src="xhtml/chapter10.xhtml#ch10-9"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-86" playOrder="86"><navLabel><text>11. Jazz-Funk Fusion: The Chameleon</text></navLabel><content src="xhtml/chapter11.xhtml#ch11"/>
+<navPoint class="other" id="navpoint-87" playOrder="87"><navLabel><text>Jazz and Funk</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-1"/></navPoint>
+<navPoint class="other" id="navpoint-88" playOrder="88"><navLabel><text>Miles Davis</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-2"/></navPoint>
+<navPoint class="other" id="navpoint-89" playOrder="89"><navLabel><text>Herbie Hancock</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-3"/></navPoint>
+<navPoint class="other" id="navpoint-90" playOrder="90"><navLabel><text>Jazz-Funk Fusion</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-4"/></navPoint>
+<navPoint class="other" id="navpoint-91" playOrder="91"><navLabel><text>The 1980s and Beyond</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-5"/></navPoint>
+<navPoint class="other" id="navpoint-92" playOrder="92"><navLabel><text>Whither Jazz&#x003F;</text></navLabel><content src="xhtml/chapter11.xhtml#ch11-6"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-93" playOrder="93"><navLabel><text>Part 4&#x2014;The United Funk Dynasty (1972&#x2013;76): The Shining Star</text></navLabel><content src="xhtml/part4.xhtml#pt4"/>
+<navPoint class="other" id="navpoint-94" playOrder="94"><navLabel><text>12. Power to the People: It&#x2019;s Just Begun</text></navLabel><content src="xhtml/chapter12.xhtml#ch12"/>
+<navPoint class="other" id="navpoint-95" playOrder="95"><navLabel><text>Funky Power</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-1"/></navPoint>
+<navPoint class="other" id="navpoint-96" playOrder="96"><navLabel><text>NATRA</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-2"/></navPoint>
+<navPoint class="other" id="navpoint-97" playOrder="97"><navLabel><text>Recording Power</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-3"/></navPoint>
+<navPoint class="other" id="navpoint-98" playOrder="98"><navLabel><text>Curtis Mayfield</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-4"/></navPoint>
+<navPoint class="other" id="navpoint-99" playOrder="99"><navLabel><text>Stax Power</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-5"/></navPoint>
+<navPoint class="other" id="navpoint-100" playOrder="100"><navLabel><text>Gil Scott-Heron</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-6"/></navPoint>
+<navPoint class="other" id="navpoint-101" playOrder="101"><navLabel><text>The Last Poets</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-7"/></navPoint>
+<navPoint class="other" id="navpoint-102" playOrder="102"><navLabel><text>Party and Bullshit</text></navLabel><content src="xhtml/chapter12.xhtml#ch12-8"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-103" playOrder="103"><navLabel><text>13. Those Funky Seventies: Livin&#x2019; for the City</text></navLabel><content src="xhtml/chapter13.xhtml#ch13"/>
+<navPoint class="other" id="navpoint-104" playOrder="104"><navLabel><text>Change</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-1"/></navPoint>
+<navPoint class="other" id="navpoint-105" playOrder="105"><navLabel><text>Those Funky Seventies</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-2"/></navPoint>
+<navPoint class="other" id="navpoint-106" playOrder="106"><navLabel><text>Television</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-3"/></navPoint>
+<navPoint class="other" id="navpoint-107" playOrder="107"><navLabel><text>Soul Train</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-4"/></navPoint>
+<navPoint class="other" id="navpoint-108" playOrder="108"><navLabel><text>Black Action Movies</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-5"/></navPoint>
+<navPoint class="other" id="navpoint-109" playOrder="109"><navLabel><text>Down Home Funk</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-6"/></navPoint>
+<navPoint class="other" id="navpoint-110" playOrder="110"><navLabel><text>Mumbo Jumbo</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-7"/></navPoint>
+<navPoint class="other" id="navpoint-111" playOrder="111"><navLabel><text>I&#x2019;m Funky and I&#x2019;m Proud</text></navLabel><content src="xhtml/chapter13.xhtml#ch13-8"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-112" playOrder="112"><navLabel><text>14. United Funk: The Shining Star</text></navLabel><content src="xhtml/chapter14.xhtml#ch14"/>
+<navPoint class="other" id="navpoint-113" playOrder="113"><navLabel><text>Number One Funk</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-1"/></navPoint>
+<navPoint class="other" id="navpoint-114" playOrder="114"><navLabel><text>Funky Worm</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-2"/></navPoint>
+<navPoint class="other" id="navpoint-115" playOrder="115"><navLabel><text>Kool &#x0026; the Gang</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-3"/></navPoint>
+<navPoint class="other" id="navpoint-116" playOrder="116"><navLabel><text>African Influence</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-4"/></navPoint>
+<navPoint class="other" id="navpoint-117" playOrder="117"><navLabel><text>Earth, Wind &#x0026; Fire</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-5"/></navPoint>
+<navPoint class="other" id="navpoint-118" playOrder="118"><navLabel><text>Average White Band</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-6"/></navPoint>
+<navPoint class="other" id="navpoint-119" playOrder="119"><navLabel><text>Rufus</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-7"/></navPoint>
+<navPoint class="other" id="navpoint-120" playOrder="120"><navLabel><text>Funky Women</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-8"/></navPoint>
+<navPoint class="other" id="navpoint-121" playOrder="121"><navLabel><text>The Isley Brothers</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-9"/></navPoint>
+<navPoint class="other" id="navpoint-122" playOrder="122"><navLabel><text>The Ohio Players</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-10"/></navPoint>
+<navPoint class="other" id="navpoint-123" playOrder="123"><navLabel><text>The Commodores</text></navLabel><content src="xhtml/chapter14.xhtml#ch14-11"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-124" playOrder="124"><navLabel><text>Part 5&#x2014;The P-Funk Dynasty (1976&#x2013;79): One Nation Under a Groove</text></navLabel><content src="xhtml/part5.xhtml#pt5"/>
+<navPoint class="other" id="navpoint-125" playOrder="125"><navLabel><text>15. Disco Fever: The (Real) Hustle</text></navLabel><content src="xhtml/chapter15.xhtml#ch15"/>
+<navPoint class="other" id="navpoint-126" playOrder="126"><navLabel><text>The Carter Era</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-1"/></navPoint>
+<navPoint class="other" id="navpoint-127" playOrder="127"><navLabel><text>Disco as Fantasy</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-2"/></navPoint>
+<navPoint class="other" id="navpoint-128" playOrder="128"><navLabel><text>Sexploitation</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-3"/></navPoint>
+<navPoint class="other" id="navpoint-129" playOrder="129"><navLabel><text>Disco Music</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-4"/></navPoint>
+<navPoint class="other" id="navpoint-130" playOrder="130"><navLabel><text>The Disco Industry</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-5"/></navPoint>
+<navPoint class="other" id="navpoint-131" playOrder="131"><navLabel><text>Disco Sucks</text></navLabel><content src="xhtml/chapter15.xhtml#ch15-6"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-132" playOrder="132"><navLabel><text>16. Dance Funk: Do You Wanna Get Funky With Me&#x003F;</text></navLabel><content src="xhtml/chapter16.xhtml#ch16"/>
+<navPoint class="other" id="navpoint-133" playOrder="133"><navLabel><text>Dance Funk</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-1"/></navPoint>
+<navPoint class="other" id="navpoint-134" playOrder="134"><navLabel><text>K. C. and the Sunshine Band</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-2"/></navPoint>
+<navPoint class="other" id="navpoint-135" playOrder="135"><navLabel><text>Brass Construction and B.T. Express</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-3"/></navPoint>
+<navPoint class="other" id="navpoint-136" playOrder="136"><navLabel><text>Chic</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-4"/></navPoint>
+<navPoint class="other" id="navpoint-137" playOrder="137"><navLabel><text>Soul Bands</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-5"/></navPoint>
+<navPoint class="other" id="navpoint-138" playOrder="138"><navLabel><text>The Brothers Johnson</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-6"/></navPoint>
+<navPoint class="other" id="navpoint-139" playOrder="139"><navLabel><text>Maze</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-7"/></navPoint>
+<navPoint class="other" id="navpoint-140" playOrder="140"><navLabel><text>Monster Funk in the Third Funk Dynasty</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-8"/></navPoint>
+<navPoint class="other" id="navpoint-141" playOrder="141"><navLabel><text>Cameo</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-9"/></navPoint>
+<navPoint class="other" id="navpoint-142" playOrder="142"><navLabel><text>Brick</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-10"/></navPoint>
+<navPoint class="other" id="navpoint-143" playOrder="143"><navLabel><text>Slave</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-11"/></navPoint>
+<navPoint class="other" id="navpoint-144" playOrder="144"><navLabel><text>The Bar-Kays</text></navLabel><content src="xhtml/chapter16.xhtml#ch16-12"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-145" playOrder="145"><navLabel><text>17. The P-Funk Empire: Tear the Roof Off the Sucker</text></navLabel><content src="xhtml/chapter17.xhtml#ch17"/>
+<navPoint class="other" id="navpoint-146" playOrder="146"><navLabel><text>The Parliaments</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-1"/></navPoint>
+<navPoint class="other" id="navpoint-147" playOrder="147"><navLabel><text>Funkadelic</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-2"/></navPoint>
+<navPoint class="other" id="navpoint-148" playOrder="148"><navLabel><text>Bernie Worrell</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-3"/></navPoint>
+<navPoint class="other" id="navpoint-149" playOrder="149"><navLabel><text>The Maggot Brain</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-4"/></navPoint>
+<navPoint class="other" id="navpoint-150" playOrder="150"><navLabel><text>Parliament</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-5"/></navPoint>
+<navPoint class="other" id="navpoint-151" playOrder="151"><navLabel><text>P-Funk</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-6"/></navPoint>
+<navPoint class="other" id="navpoint-152" playOrder="152"><navLabel><text>The Mothership Connection</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-7"/></navPoint>
+<navPoint class="other" id="navpoint-153" playOrder="153"><navLabel><text>Bootsy&#x2019;s Rubber Band</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-8"/></navPoint>
+<navPoint class="other" id="navpoint-154" playOrder="154"><navLabel><text>The Earth Tour</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-9"/></navPoint>
+<navPoint class="other" id="navpoint-155" playOrder="155"><navLabel><text>Flashlight and One Nation</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-10"/></navPoint>
+<navPoint class="other" id="navpoint-156" playOrder="156"><navLabel><text>Atomic Dog</text></navLabel><content src="xhtml/chapter17.xhtml#ch17-11"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-157" playOrder="157"><navLabel><text>18. The Metaphysics of P: The Mothership Connection</text></navLabel><content src="xhtml/chapter18.xhtml#ch18"/>
+<navPoint class="other" id="navpoint-158" playOrder="158"><navLabel><text>Afro-centric</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-1"/></navPoint>
+<navPoint class="other" id="navpoint-159" playOrder="159"><navLabel><text>The Mothership</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-2"/></navPoint>
+<navPoint class="other" id="navpoint-160" playOrder="160"><navLabel><text>Cosmic Oneness</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-3"/></navPoint>
+<navPoint class="other" id="navpoint-161" playOrder="161"><navLabel><text>The Infinity Within</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-4"/></navPoint>
+<navPoint class="other" id="navpoint-162" playOrder="162"><navLabel><text>Balance</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-5"/></navPoint>
+<navPoint class="other" id="navpoint-163" playOrder="163"><navLabel><text>The Life Force</text></navLabel><content src="xhtml/chapter18.xhtml#ch18-6"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-164" playOrder="164"><navLabel><text>Part 6&#x2014;The Naked Funk Dynasty (1980&#x2013;87): Dance, Music, Sex &#x2026;</text></navLabel><content src="xhtml/part6.xhtml#pt6"/>
+<navPoint class="other" id="navpoint-165" playOrder="165"><navLabel><text>19. Funk in the 1980s: Super Freaks</text></navLabel><content src="xhtml/chapter19.xhtml#ch19"/>
+<navPoint class="other" id="navpoint-166" playOrder="166"><navLabel><text>The Naked Funk Dynasty</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-1"/></navPoint>
+<navPoint class="other" id="navpoint-167" playOrder="167"><navLabel><text>Killer Crossover</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-2"/></navPoint>
+<navPoint class="other" id="navpoint-168" playOrder="168"><navLabel><text>War on The Funk</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-3"/></navPoint>
+<navPoint class="other" id="navpoint-169" playOrder="169"><navLabel><text>Naked Funk</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-4"/></navPoint>
+<navPoint class="other" id="navpoint-170" playOrder="170"><navLabel><text>Rick James</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-5"/></navPoint>
+<navPoint class="other" id="navpoint-171" playOrder="171"><navLabel><text>Prince</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-6"/></navPoint>
+<navPoint class="other" id="navpoint-172" playOrder="172"><navLabel><text>The Time</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-7"/></navPoint>
+<navPoint class="other" id="navpoint-173" playOrder="173"><navLabel><text>Naked Funk Bands</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-8"/></navPoint>
+<navPoint class="other" id="navpoint-174" playOrder="174"><navLabel><text>Roger and Zapp</text></navLabel><content src="xhtml/chapter19.xhtml#ch19-9"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-175" playOrder="175"><navLabel><text>20. Hip Hop and Black Noise: Raising Hell</text></navLabel><content src="xhtml/chapter20.xhtml#ch20"/>
+<navPoint class="other" id="navpoint-176" playOrder="176"><navLabel><text>New York Hip Hop</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-1"/></navPoint>
+<navPoint class="other" id="navpoint-177" playOrder="177"><navLabel><text>Afrika Bambaataa</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-2"/></navPoint>
+<navPoint class="other" id="navpoint-178" playOrder="178"><navLabel><text>Industrial Funk</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-3"/></navPoint>
+<navPoint class="other" id="navpoint-179" playOrder="179"><navLabel><text>Go Go</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-4"/></navPoint>
+<navPoint class="other" id="navpoint-180" playOrder="180"><navLabel><text>Trouble Funk</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-5"/></navPoint>
+<navPoint class="other" id="navpoint-181" playOrder="181"><navLabel><text>World Beat</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-6"/></navPoint>
+<navPoint class="other" id="navpoint-182" playOrder="182"><navLabel><text>Bay Area Funk</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-7"/></navPoint>
+<navPoint class="other" id="navpoint-183" playOrder="183"><navLabel><text>Funk Rock</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-8"/></navPoint>
+<navPoint class="other" id="navpoint-184" playOrder="184"><navLabel><text>The Black Rock Coalition</text></navLabel><content src="xhtml/chapter20.xhtml#ch20-9"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-185" playOrder="185"><navLabel><text>Part 7&#x2014;The Hip Hop Nation: Amerikkka&#x2019;s Most Wanted</text></navLabel><content src="xhtml/part7.xhtml#pt7"/>
+<navPoint class="other" id="navpoint-186" playOrder="186"><navLabel><text>21. Funk in the Nineties: Return of the Funk</text></navLabel><content src="xhtml/chapter21.xhtml#ch21"/>
+<navPoint class="other" id="navpoint-187" playOrder="187"><navLabel><text>Political Rap</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-1"/></navPoint>
+<navPoint class="other" id="navpoint-188" playOrder="188"><navLabel><text>Afro-centric Rap</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-2"/></navPoint>
+<navPoint class="other" id="navpoint-189" playOrder="189"><navLabel><text>A Funky Spirituality</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-3"/></navPoint>
+<navPoint class="other" id="navpoint-190" playOrder="190"><navLabel><text>P-Funk Hip Hop</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-4"/></navPoint>
+<navPoint class="other" id="navpoint-191" playOrder="191"><navLabel><text>West Coast Rap</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-5"/></navPoint>
+<navPoint class="other" id="navpoint-192" playOrder="192"><navLabel><text>Sexism and Power</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-6"/></navPoint>
+<navPoint class="other" id="navpoint-193" playOrder="193"><navLabel><text>2-Live Crew</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-7"/></navPoint>
+<navPoint class="other" id="navpoint-194" playOrder="194"><navLabel><text>The Funk Wars</text></navLabel><content src="xhtml/chapter21.xhtml#ch21-8"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-195" playOrder="195"><navLabel><text>22. Postscript on The Funk: Sons of the P</text></navLabel><content src="xhtml/chapter22.xhtml#ch22"/>
+<navPoint class="other" id="navpoint-196" playOrder="196"><navLabel><text>Funkateers</text></navLabel><content src="xhtml/chapter22.xhtml#ch22-1"/></navPoint></navPoint></navPoint>
+<navPoint class="other" id="navpoint-197" playOrder="197"><navLabel><text>Appendices</text></navLabel><content src="xhtml/essential.xhtml"/>
+<navPoint class="other" id="navpoint-198" playOrder="198"><navLabel><text>Essential Funk Recordings</text></navLabel><content src="xhtml/essential.xhtml#ess"/></navPoint>
+<navPoint class="other" id="navpoint-199" playOrder="199"><navLabel><text>Sources and Notes</text></navLabel><content src="xhtml/notes.xhtml#note"/></navPoint></navPoint>
+<navPoint class="other" id="navpoint-200" playOrder="200"><navLabel><text>Index</text></navLabel><content src="xhtml/index.xhtml#ind"/></navPoint>
+<navPoint class="other" id="navpoint-201" playOrder="201"><navLabel><text>Critical Praise for Funk by Rickey Vincent</text></navLabel><content src="xhtml/praise.xhtml#pr"/></navPoint>
+<navPoint class="other" id="navpoint-202" playOrder="202"><navLabel><text>Copyright</text></navLabel><content src="xhtml/copyright.xhtml#crp"/></navPoint>
+</navMap>
+</ncx>
